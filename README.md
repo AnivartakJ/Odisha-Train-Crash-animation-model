@@ -1,7 +1,7 @@
 July 3 Train Crash Animated Collision Model using Blender
 This repository contains an animated collision model of the July 3 train crash incident that occurred in 2023 in India, involving three trains: the 12841 Coromandel Express, the 12864 Yesvantpur-Howrah SF Express, and a Goods train carrying coal. The model created using Blender provides a visual representation of the collision and can be used for educational purposes, simulations, or analysis.
 
-Background
+Background 
 On July 3, 2023, a train collision occurred near Bahanaga railway station in Balasore district, Odisha, India. The crash involved the following trains:
 
 12841 Coromandel Express: This train was traveling from Shalimar to Chennai, carrying over 1,000 passengers.
