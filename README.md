@@ -8,7 +8,7 @@ On July 3, 2023, a train collision occurred near Bahanaga railway station in Bal
 12864 Yesvantpur-Howrah SF Express: This train was traveling from Bengaluru to Howrah, carrying over 500 passengers.
 Goods train: This train was stationary on the tracks and carrying coal when it was collided with by the other two trains.
 The crash happened at approximately 7:00 PM and is believed to have been caused by a landslide, resulting in one train derailing and colliding with the other two trains.
-
+ 
 Casualties and Impact
 The collision resulted in the tragic loss of at least 25 lives and left over 100 people injured. The injured individuals were rushed to nearby hospitals for medical treatment. The rescue operation is ongoing, and there is a possibility that the death toll may increase.
 
